@@ -13,7 +13,7 @@ def main():
 
     """
 
-    API_KEY = "0b366f2757dc4be0977c1db1cc99cf7f"
+    API_KEY = "API_KEY"
     DOMAINS = {"000webhost.com", "126.com"}
     USER_EMAIL = "davidppham1996@gmail.com"
 
