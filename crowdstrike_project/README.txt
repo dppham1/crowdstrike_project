@@ -20,7 +20,7 @@ A brief description of what I made for this project, followed by what was my jus
                 - Logs all user-related breaches to a folder called user_logs 
 
 
-Justifications
+## Justifications
 
 - Why did I choose to store the data inside a .json file?
     - I didn't think there was a need to do anythign complex and run a DB for this project for 2 reasons:
